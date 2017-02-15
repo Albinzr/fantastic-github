@@ -11,3 +11,9 @@
 
 ### [do-not-merge-wip-for-github](https://github.com/sanemat/do-not-merge-wip-for-github)
 > Do Not Merge WIP for GitHub
+
+### [game-of-life](https://github.com/yuanchuan/game-of-life)
+> A browser extension to play Conway's Game of Life on GitHub contribution board
+
+### [isometric-contributions](https://github.com/jasonlong/isometric-contributions)
+> Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
