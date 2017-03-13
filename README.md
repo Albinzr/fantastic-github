@@ -17,3 +17,6 @@
 
 ### [isometric-contributions](https://github.com/jasonlong/isometric-contributions)
 > Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
+
+### [Gitee](https://github.com/Nightonke/Gitee)
+> Gitee, OS X status bar application for Github
